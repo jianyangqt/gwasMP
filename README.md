@@ -5,4 +5,4 @@ Citation: Wu et al. (2017) Quantifying the mapping precision of genome-wide asso
 
 Credits: Zhili Zheng, Yang Wu and Jian Yang at the Program in Complex Trait Genomics, The University of Queensland
 
-Troubleshooting: [Jian Yang](jian.yang@uq.edu.au)
+Troubleshooting: [Jian Yang](mailto:jian.yang@uq.edu.au)
