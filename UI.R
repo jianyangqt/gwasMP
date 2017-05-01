@@ -37,7 +37,7 @@ shinyUI(fluidPage(
       numericInput("maf_diff", label = "MAF difference between causal variants and GWAS hits",
         min = 0, max = 0.5, value = 0.05),
       
-      HTML("<p><strong>Citation:</strong> Wu et al. (2017) Quantifying the mapping precision of GWAS using whole-genome sequencing data. Under revision.</p>
+      HTML("<p><strong>Citation:</strong>Wu et al. (2017) Quantifying the mapping precision of genome-wide association studies using whole- genome sequencing data. Genome Biology, in press.</p>
       <p><strong>Credits:</strong> <a href='mailto:zhilizheng@uq.edu.au'>Zhili Zheng</a>, <a href='mailto:y.wu2@uq.edu.au'>Yang Wu</a> and <a href=' http://researchers.uq.edu.au/researcher/2713'>Jian Yang</a> at the Program in <a href='http://cnsgenomics.com/'>Complex Trait Genomics</a>, The University of Queensland</p>
       <p><strong>Troubleshooting:</strong> <a href='mailto:jian.yang@uq.edu.au'>Jian Yang</a></p>")
     ),
