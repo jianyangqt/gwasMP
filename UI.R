@@ -43,6 +43,7 @@ shinyUI(fluidPage(
     ),
   
     mainPanel(fluidPage(
+      tags$head(includeScript("ga.js")),
       plotOutput("plot", height=290),
 	    hr(),
 
